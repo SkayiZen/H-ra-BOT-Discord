@@ -1,0 +1,32 @@
+{
+    "question": "Quel domaine vous intéresse ?",
+    "reponses": {
+        "auto": {
+            "question": "Quel usage ?",
+            "reponses": {
+                "ville": "Conclusion : Renault Megane E-Tech.",
+                "route": {
+                    "question": "Style ?",
+                    "reponses": {
+                        "sport": "Conclusion : Tesla Model 3.",
+                        "famille": "Conclusion : Kia EV6."
+                    }
+                }
+            }
+        },
+        "cuisine": {
+            "question": "Quel type de plat ?",
+            "reponses": {
+                "sale": "Conclusion : Pâtes Carbonara.",
+                "sucre": "Conclusion : Crêpes au sucre."
+            }
+        },
+        "cinema": {
+             "question": "Quel genre ?",
+             "reponses": {
+                 "action": "Conclusion : Mad Max Fury Road.",
+                 "drame": "Conclusion : The Truman Show."
+             }
+        }
+    }
+}
