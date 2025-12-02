@@ -63,4 +63,4 @@ Le projet est organisé de manière modulaire pour être propre et maintenable :
 
 **Bibliothèque** : `discord.py`
 
-**Particularité **: Les structures de données (Arbre de décision et Liste chaînée pour l'historique) sont codées à la main, sans utiliser de modules tout faits.
+**Particularité** : Les structures de données (Arbre de décision et Liste chaînée pour l'historique) sont codées à la main, sans utiliser de modules tout faits.
